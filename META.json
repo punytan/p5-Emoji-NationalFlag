@@ -47,6 +47,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/punytan/p5-Emoji-NationalFlag/issues"
+      },
+      "homepage" : "https://github.com/punytan/p5-Emoji-NationalFlag",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/punytan/p5-Emoji-NationalFlag.git",
+         "web" : "https://github.com/punytan/p5-Emoji-NationalFlag"
+      }
+   },
    "version" : "0.01",
    "x_serialization_backend" : "Cpanel::JSON::XS version 3.0225"
 }
